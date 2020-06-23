@@ -1,0 +1,1 @@
+console.log('Agregando un mensaje en app.js');
